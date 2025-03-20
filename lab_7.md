@@ -12,4 +12,11 @@ Implement chown, chmod command with their options
 ### c. Recursive Ownership Changes
 #### ![image](https://github.com/user-attachments/assets/31801b9d-6e14-49f8-9a06-ddc8d58d04cd)
 
+## 2. Managing File Permissions with chmod
+### a. Setting Permissions Using Symbolic Mode
+#### ![image](https://github.com/user-attachments/assets/3a5b09bd-b094-4e51-8514-7c78370bb8fe)
+
+### b. Setting Permissions Using Numeric Mode (Octal)
+#### ![image](https://github.com/user-attachments/assets/22e36226-97ef-4bc0-9073-326ad2630c09)
+
 
